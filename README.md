@@ -11,4 +11,6 @@ Univ. of Seoul 2020 winter seasonal semester
 1. can add the numbers that must be included.
 2. can remove the numbers that must be excluded.
 3. show the most / least frequently extracted numbers from all the records so far.
-4. can sample from Empirical CDF(cumulative distribution function)
+4. can sample from Empirical CDF(cumulative distribution function)   
+-----  
+it's going to implement GUI
