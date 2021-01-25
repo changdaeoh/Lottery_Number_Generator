@@ -13,4 +13,8 @@ Univ. of Seoul 2020 winter seasonal semester
 3. show the most / least frequently extracted numbers from all the records so far.
 4. can sample from Empirical CDF(cumulative distribution function)   
 -----  
-it's going to implement GUI
+## GUI
+<figure>
+    <img src = "https://github.com/changdaeoh/Lottery_Number_Generator/blob/main/sample_image/init.png" width = "30%" height = "30%">
+    <img src = "https://github.com/changdaeoh/Lottery_Number_Generator/blob/main/sample_image/try1.png" width = "30%" height = "30%">
+</figure>
