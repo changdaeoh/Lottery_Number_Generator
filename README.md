@@ -15,6 +15,6 @@ Univ. of Seoul 2020 winter seasonal semester
 -----  
 ## GUI
 <figure>
-    <img src = "https://github.com/changdaeoh/Lottery_Number_Generator/blob/main/sample_image/init.png" width = "30%" height = "30%">
-    <img src = "https://github.com/changdaeoh/Lottery_Number_Generator/blob/main/sample_image/try1.png" width = "30%" height = "30%">
+    <img src = "https://github.com/changdaeoh/Lottery_Number_Generator/blob/main/sample_image/init.png" width = "50%" height = "50%">
+    <img src = "https://github.com/changdaeoh/Lottery_Number_Generator/blob/main/sample_image/try1.png" width = "50%" height = "50%">
 </figure>
